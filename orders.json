@@ -1,6 +1,6 @@
 {
   "J82471": {
-    "status": "Versandvorbereitung",
+    "status": "Auf dem Transportweg",
     "statusClass": "pending",
     "sender": "Thomas Kehl, Am Brink 8, 18209 Bad Doberan, Deutschland",
     "receiver": "Fabian Schukrafft, Robert-Bosch-Straße 10, 74632 Neuenstein, Deutschland",
@@ -26,7 +26,7 @@
       }
     ],
     "orderDate": "09-09-2025",
-    "deliveryDate": "12-09-2025",
+    "deliveryDate": "12-09-2025, 15:30 Uhr",
     "pickup": {
       "street": "",
       "postal_code": "",
