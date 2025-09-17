@@ -26,11 +26,11 @@
       }
     ],
     "orderDate": "09-09-2025",
-    "deliveryDate": "17-09-2025, 11:00 Uhr",
+    "deliveryDate": "18-09-2025, 15:30 Uhr",
     "pickup": {
-      "street": "Leipziger Str. 55",
-      "postal_code": "04435",
-      "city": "Schkeuditz",
+      "street": "Max-Eyth-Straße 25",
+      "postal_code": "74632",
+      "city": "Neuenstein",
       "country": "Deutschland",
       "lat": "51.39292960629895",
       "lng": "12.232433441175669"
