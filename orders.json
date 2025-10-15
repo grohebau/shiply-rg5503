@@ -1,0 +1,47 @@
+{
+  "S57238": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Manfred Daffner, Doktorberg 30, 83471 Berchtesgaden, Deutschland",
+    "receiver": "Johann Kosowski, Holsthumerstrasse 2, 54636 Wolsfeld, Deutschland",
+    "price": "11.900 €",
+    "description": "Hersteller: Can Am<br>Typ: Spyder F3-S<br>Fahrgestelnummer: 2BXRDDD16MV000304<br>Erstzulassung: 17/05/2021<br>KM laut Vorbesitzer: 11.491 km<br>Leistung: 84 kW<br>Hubraum: 1330 cm³<br>Farbe: Schwarz<br><br>Das Trike ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Johann Kosowski<br>Holsthumerstrasse 2<br>54636 Wolsfeld<br>Deutschland<br>Telefon: +352 691 500201",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "15-10-2025",
+    "deliveryDate": "22-10-2025",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
